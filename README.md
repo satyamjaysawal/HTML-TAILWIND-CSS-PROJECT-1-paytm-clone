@@ -1,5 +1,5 @@
 
-# 🚀HTML & TAILWIND CSS PROJECT 1🚀
+# 🚀HTML & TAILWIND CSS PROJECT 1🚀   ![image](https://user-images.githubusercontent.com/108862706/185797224-6fa2200d-2692-496e-8a6c-d8505fc730dd.png)
 
 ## _Patym clone using tailwind css_ :
 
@@ -7,7 +7,7 @@ This one is a Paytm clone which is created using HTML & TAILWIND CSS. This websi
 ![shield](https://img.shields.io/badge/Project-Landing%20page-red)  ![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen) 
 
 
- ![shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![shield](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    ![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)
+ ![shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)     ![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)
 
 # [ineuron.ai](https://ineuron.ai/)  : Learn from the best of industry
 
