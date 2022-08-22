@@ -1,6 +1,4 @@
 
-This is Paytm home page clone made using html5 and tailwind css.
-
 # 🚀HTML & TAILWIND CSS PROJECT 1🚀
 
 ## _Patym clone using tailwind css_ :
