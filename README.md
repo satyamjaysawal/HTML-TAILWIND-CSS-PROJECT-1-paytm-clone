@@ -3,7 +3,7 @@
 
 ## _Patym clone using tailwind css_ :
 
-This one is a Paytm clone which is created using HTML & CSS. This website is currently responsive.
+This one is a Paytm clone which is created using HTML & TAILWIND CSS. This website is currently responsive.
 ![shield](https://img.shields.io/badge/Project-Landing%20page-red)  ![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen) 
 
 
@@ -21,7 +21,7 @@ This one is a Paytm clone which is created using HTML & CSS. This website is cur
 ![](thumbnail2.png)
 ![](thumbnail3.png)
 
-## 🔗__This is fifteenth Project of Html & CSS with mobile responsive_
+## 🔗__This is first Project of Html & tailwind CSS with mobile responsive_
 
 A HTML,Tailwind CSS Project. Made with ♥ by Satyam Jaysawal. There will be a Paytm clone. In this project we gonna learn how we can create a website using  HTML,Tailwind CSS. The main purpose of the project is to get more used to with HTML,Tailwind CSS. Later on, in this project, we gonna learn how we can deploy this site using Netlify. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
