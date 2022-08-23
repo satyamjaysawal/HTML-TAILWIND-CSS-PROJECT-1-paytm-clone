@@ -18,8 +18,7 @@ This one is a Paytm clone which is created using HTML & TAILWIND CSS. This websi
 ## 🔗PROJECT 1 : _Screenshot_
 
 ![](thumbnail1.png)
-![](thumbnail2.png)
-![](thumbnail3.png)
+
 
 ## 🔗__This is first Project of Html & tailwind CSS with mobile responsive_
 
